@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Campera",
+      "description": "Campera de invierno impermiable con capucha disponible en los colores rojo, verde y azul.",
+      "price": 6,
+      "thumbnail": "Sin imagen",
+      "code": "C001",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "title": "Camisa",
+      "description": "Camisa a cuadros unisex disponible en los colores rojo, verde y gris.",
+      "price": 2,
+      "thumbnail": "Sin imagen",
+      "code": "C002",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "title": "Zapatillas",
+      "description": "Zapatillas marca Jaguar unisex hasta el tobillo desde talle 30 hasta 37, consultar previamente por colores disponibles.",
+      "price": 2000,
+      "thumbnail": "Sin imagen",
+      "code": "C003",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "title": "Medias",
+      "description": "Medias de abejita amarillas con rayas negras disponible en los talles 20 hasta 37",
+      "price": 500,
+      "thumbnail": "Sin imagen",
+      "code": "C004",
+      "stock": 40
+    },
+    {
+      "id": 5,
+      "title": "Buzo",
+      "description": "Buzo de lana en colores verde, rosado, blanco y gris.",
+      "price": 600,
+      "thumbnail": "Sin imagen",
+      "code": "C0045",
+      "stock": 60
+    },
+    {
+      "id": 6,
+      "title": "Pantalones de Jean",
+      "description": "Pantalones de jean unisex disponibles en talles del 30 al 40.",
+      "price": 600,
+      "thumbnail": "Sin imagen",
+      "code": "C006",
+      "stock": 25
+    },
+    {
+      "id": 7,
+      "title": "Camiseta Estampada",
+      "description": "Camiseta unisex con estampado, disponible en colores blanco, negro y gris.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "C007",
+      "stock": 35
+    },
+    {
+      "id": 8,
+      "title": "Gorra de Béisbol",
+      "description": "Gorra de béisbol unisex, ajustable, disponible en colores rojo, azul y negro.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "C008",
+      "stock": 20
+    },
+    {
+      "id": 9,
+      "title": "Bufanda de Lana",
+      "description": "Bufanda de lana unisex, larga, disponible en colores gris, beige y negro.",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "code": "C009",
+      "stock": 30
+    },
+    {
+      "id": 10,
+      "title": "Gorro de Invierno",
+      "description": "Gorro de invierno unisex, tejido, disponible en colores negro, gris y azul.",
+      "price": 250,
+      "thumbnail": "Sin imagen",
+      "code": "C010",
+      "stock": 30
+    }
+  ]
